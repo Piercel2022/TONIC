@@ -1,4 +1,4 @@
-# project1
+# TONIC
 ## Description of the project
 This project serve as a prototype and it is not a real one
 
