@@ -1,11 +1,11 @@
 # project1
 ## Description of the project
-For this milestone of the portfolio website, we will implement the mobile menu 
+This project serve as a prototype and it is not a real one
 
 ## Built With
 
 - Major languages: HTML & CSS
-- A Linter for HTML & CSS and Javascript
+- A Linter for HTML & CSS 
 
 
 ## Getting Started
