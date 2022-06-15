@@ -19,7 +19,7 @@ To get a local copy up and running follow these simple example steps in your ter
 
 1. Download the Zip file or clone the repo with:
 
-git clone https://github.com/Piercel2022/project1
+git clone https://github.com/Piercel2022/TONIC
 
 2. To access cloned directory run:
 
@@ -29,7 +29,7 @@ cd project1
 
 
 ## Link demo
-https://piercel2022.github.io/project1/
+https://piercel2022.github.io/TONIC/
 ### Install : 
 To install linters and other project's dependencies run:
 
